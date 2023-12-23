@@ -1,2 +1,2 @@
-# samp-le-pure-css-card-flip
+# sample-pure-css-card-flip
 Sample pure css card flip
